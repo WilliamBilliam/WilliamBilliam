@@ -42,4 +42,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=williambilliam&show_icons=true&locale=en" alt="williambilliam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=williambilliam&" alt="williambilliam" /></p>
+<a href="https://app.daily.dev/willypeps"><img src="https://api.daily.dev/devcards/eb328cfdaf1c474a85e167009fc70a8d.png?r=dcc" width="400" alt="William Mutava's Dev Card"/></a>
 
