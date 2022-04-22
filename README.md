@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/willypeps1" target="blank"><img src="https://img.shields.io/twitter/follow/willypeps1?logo=twitter&style=for-the-badge" alt="willypeps1" /></a> </p>
 
-- 🔭 I’m currently working on some mini-projects **Car Parking Booking and Reservation system**
+- 🔭 I’m currently working on some mini-projects |**Car Parking Booking and Reservation system**| , | fast foods inventory management system |
 
 - 🌱 I’m currently learning **VueJs, NodeJs,ExpressJs**
 
